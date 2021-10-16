@@ -1,4 +1,4 @@
-# YLoader
+# [YLoader](https://github.com/adrianmichel/yloader)
 
 YLoader is a free stock quotes downloader for Windows.
 
